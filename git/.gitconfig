@@ -1,7 +1,7 @@
 [user]
-    name = George Ho
-    email = 19851673+eigenfoo@users.noreply.github.com
-    username = eigenfoo
+    name = Miguel Batista
+    email = miguelcbatista@gmail.com
+    username = mpcsb
 [core]
     editor = vim
     whitespace = fix,-indent-with-non-tab,trailing-space,cr-at-eol
